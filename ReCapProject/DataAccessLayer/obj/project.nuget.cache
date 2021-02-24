@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "smcdCqA2cdJ+MJCUBSN5MS9LMCKNWrARHNIiEAC2Aac2lhQO2LO6ixi38lMic6VLLRlOqtm6Z4WOUyPz+iy1wQ==",
+  "success": true,
+  "projectFilePath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadirari\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
